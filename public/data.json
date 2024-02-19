@@ -57,7 +57,7 @@
     [
       "",
       "公共施設",
-      "https://github.com/chaonao123/machigurumi/blob/master/public/minto.jpg",
+      "https://chaonao123.github.io/machigurumi/minto.jpg",
       "34.50600433",
       "135.4286558",
       "ミント条東(条東小学校)",
@@ -82,7 +82,7 @@
     [
       "",
       "お店や公園など",
-      "https://github.com/chaonao123/machigurumi/blob/master/public/park.jpg",
+      "https://chaonao123.github.io/machigurumi/park.jpg",
       "34.50765222",
       "135.4051192",
       "シーパスパーク",
@@ -91,7 +91,7 @@
     [
       "",
       "お店や公園など",
-      "https://github.com/chaonao123/machigurumi/blob/master/public/hamasukematsu.JPG",
+      "https://chaonao123.github.io/machigurumi/hamasukematsu..jpeg",
       "34.51372459",
       "135.4163799",
       "浜助松自治会",
@@ -145,11 +145,17 @@
     [
       "",
       "まちかど本箱",
-      "https://github.com/chaonao123/machigurumi/blob/master/public/nagisa.JPG",
+      "https://chaonao123.github.io/machigurumi/nagisa.jpg",
       "34.50851898",
       "135.4003803",
       "なぎさ",
       "ファミールハイツ5番館の防災センター（入口付近）で、ゆっくりくつろぎながら自由に読書が楽しめます。本の貸出もOK。また読み終わった本や人に読んでほしい本があればお持ちください。\n\n日時：毎月第１・第３土曜日　午前10時～午後3時"
+    ],
+    [],
+    [
+      "",
+      "",
+      "https://chaonao123.github.io/machigurumi/minto.jpg"
     ]
   ]
 }
