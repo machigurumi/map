@@ -74,7 +74,7 @@
     [
       "",
       "お店や公園など",
-      "https://github.com/chaonao123/machigurumi/blob/master/public/kousoku.jpeg",
+      "https://machigurumi.github.io/map/kousoku.jpeg",
       "34.50745645",
       "135.395828",
       "泉大津パーキングエリア",
@@ -110,7 +110,7 @@
     [
       "",
       "お店や公園など",
-      "https://machigurumi.github.io/map/moyai.jpeg",
+      "https://machigurumi.github.io/map/moyai.JPG",
       "34.50520792",
       "135.4016565",
       "南溟寺(もやいホール）"
@@ -136,20 +136,20 @@
     [
       "",
       "まちかど本箱",
-      "https://chaonao123.github.io/machigurumi/kodomo.jpeg",
-      "34.48805741",
-      "135.4107271",
-      "板原こどもの家",
-      "子どもの居場所作りをしている板原こどもの家の本箱です。絵本から大人の本までそろえています。"
-    ],
-    [
-      "",
-      "まちかど本箱",
       "https://chaonao123.github.io/machigurumi/honbako.jpeg",
       "34.49309585",
       "135.4209191",
       "ほんばこ図書館",
       "手作りの可愛い白い本箱です。どんな本が入っているか、のぞいてみてくださいね。"
+    ],
+    [
+      "",
+      "まちかど本箱",
+      "https://chaonao123.github.io/machigurumi/kodomo.jpeg",
+      "34.48805741",
+      "135.4107271",
+      "板原こどもの家",
+      "子どもの居場所作りをしている板原こどもの家の本箱です。絵本から大人の本までそろえています。"
     ],
     [
       "",
