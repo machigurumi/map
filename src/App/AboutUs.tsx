@@ -15,7 +15,7 @@ const Content = () => {
       <div className="container">
         <div className="branding">
           <div className="image"><img src={`${process.env.PUBLIC_URL}/icon-pwamap.svg`} alt=""/></div>
-          <div className="logo">Geolonia PWAマップ</div>
+          <div className="logo">泉大津まちぐるみ図書館マップ</div>
         </div>
 
         <p>まちぐるみ図書館」は、泉大津市内の様々な場所で本に出会える環境を整え、まち全体を図書館に見立てるプロジェクトです。泉大津市立図書館シープラでは、「まちぐるみ図書館」を一緒につくるパートナーを募集しています！</p>
