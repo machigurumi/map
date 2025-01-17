@@ -93,7 +93,7 @@
     [
       "",
       "お店や公園など",
-      "https://github.com/chaonao123/machigurumi/blob/master/public/yuriya.jpg",
+      "https://github.com/machigurumi/map/blob/master/public/yuriya.jpg",
       "34.51439269",
       "135.424628",
       "ゆりや化粧品",
@@ -193,7 +193,7 @@
     [
       "",
       "公共施設",
-      "",
+      "https://github.com/machigurumi/map/blob/master/public/ebisunintei.jpg",
       "34.5011049",
       "135.3975666",
       "ちょこっとひろば",
@@ -202,7 +202,7 @@
     [
       "",
       "公共施設",
-      "",
+      "https://github.com/machigurumi/map/blob/master/public/kusunokininntei.jpg",
       "34.49211279",
       "135.4122583",
       "らっこくらぶ",
@@ -211,7 +211,7 @@
     [
       "",
       "公共施設",
-      "",
+      "https://github.com/machigurumi/map/blob/master/public/kosodatesien.jpg",
       "34.51162839",
       "135.4221531",
       "泉大津市地域子育て支援センター",
