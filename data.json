@@ -1,5 +1,5 @@
 {
-  "range": "'スポットデータ'!A1:K86",
+  "range": "'スポットデータ'!A1:K84",
   "majorDimension": "ROWS",
   "values": [
     [
@@ -132,30 +132,6 @@
       "",
       "https://honnowa.com/",
       "https://www.facebook.com/honnowasenshyu"
-    ],
-    [
-      "",
-      "まちかど本箱",
-      "https://chaonao123.github.io/machigurumi/honnowa2.jpeg",
-      "34.49713416",
-      "135.4178022",
-      "ホンノワ２",
-      "手作りの大きな看板が目印の穴師パーク近くの本箱でホンノワまちライブラリーの第２号。屋根までDIYで仕上げた本格的まちかど本箱です。絵本や児童書の他、オーナーの視点でセレクトした地域の本や、ちょっとユニークな本も入れています。",
-      "",
-      "",
-      "https://honnowa.com/"
-    ],
-    [
-      "",
-      "まちかど本箱",
-      "https://chaonao123.github.io/machigurumi/honbako.jpeg",
-      "34.49309585",
-      "135.4209191",
-      "ほんばこ図書館",
-      "手作りの可愛い白い本箱の中には、漫画や絵本、街の人から寄贈された本が入っています。どんな本が入っているか、のぞいてみてくださいね。",
-      "",
-      "",
-      "https://honnowa.com/"
     ],
     [
       "",
